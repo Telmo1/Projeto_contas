@@ -1,0 +1,15 @@
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\bin\Debug\net6.0\Projeto_Contas.exe
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\bin\Debug\net6.0\Projeto_Contas.deps.json
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\bin\Debug\net6.0\Projeto_Contas.runtimeconfig.json
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\bin\Debug\net6.0\Projeto_Contas.dll
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\bin\Debug\net6.0\Projeto_Contas.pdb
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\Projeto_Contas.csproj.AssemblyReference.cache
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\Projeto_Contas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\Projeto_Contas.AssemblyInfoInputs.cache
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\Projeto_Contas.AssemblyInfo.cs
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\Projeto_Contas.csproj.CoreCompileInputs.cache
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\Projeto_Contas.dll
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\refint\Projeto_Contas.dll
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\Projeto_Contas.pdb
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\Projeto_Contas.genruntimeconfig.cache
+C:\Users\yrtel\OneDrive\Área de Trabalho\Projeto_Contas\obj\Debug\net6.0\ref\Projeto_Contas.dll
