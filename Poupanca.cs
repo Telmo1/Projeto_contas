@@ -10,9 +10,10 @@ namespace Projeto_Contas
 
          public string Tostring(){
             string texto;
-            texto = "A agencia é:" + base.Agencia;
-            texto += "\nO numero é:" + base.Numero;
-            texto += "\nO saldo é:" + base.Saldo;
+            // texto = "A agencia é:" + base.Agencia;
+            // texto += "\nO numero é:" + base.Numero;
+            // texto += "\nO saldo é:" + base.Saldo;
+            texto = base.Tostring();
             texto += "\nO limite é:" + this.Aniversario;
             return texto;
          }
